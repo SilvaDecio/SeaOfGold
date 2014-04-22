@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sea Of Gold", "Sea Of Gold\Sea Of Gold\Sea Of Gold.csproj", "{8D16E649-3EBA-45EF-987A-B8C01606B0C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sea Of GoldContent", "Sea Of Gold\Sea Of GoldContent\Sea Of GoldContent.contentproj", "{657F02EC-6539-4430-9320-B3134660979B}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D16E649-3EBA-45EF-987A-B8C01606B0C8}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{8D16E649-3EBA-45EF-987A-B8C01606B0C8}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{8D16E649-3EBA-45EF-987A-B8C01606B0C8}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{8D16E649-3EBA-45EF-987A-B8C01606B0C8}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{8D16E649-3EBA-45EF-987A-B8C01606B0C8}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{8D16E649-3EBA-45EF-987A-B8C01606B0C8}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{657F02EC-6539-4430-9320-B3134660979B}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{657F02EC-6539-4430-9320-B3134660979B}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
